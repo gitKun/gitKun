@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 <a href="#stats" align="center">
     <img align="center" alt="gitKun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=gitKun&count_private=true&show_icons=true&include_all_commits=true&show_owner=true&theme=material-palenight"/>
 </a>
+
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gitkun&layout=compact" /> 
+</p>
